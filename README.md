@@ -6,10 +6,16 @@ This repository showcases the projects I have completed or am currently working 
 # CONTENTS
 - [PROJECTS](#projects)
   - Data Visualisation
-- Exploratory Data Analysis
-- Predictive Modelling
-- Web Development Websites
+  - Exploratory Data Analysis
+  - Predictive Modelling
+  - Web Development Websites
+- [CERTIFICATION](#certification)
+- [CONTACT INFORMATION](#contact-information)
 
 # PROJECTS
+
+# CERTIFICATION
+
+# CONTACT INFORMATION
 
  

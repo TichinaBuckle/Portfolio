@@ -9,3 +9,7 @@ This repository showcases the projects I have completed or am currently working 
 - Exploratory Data Analysis
 - Predictive Modelling
 - Web Development Websites
+
+# PROJECTS
+
+ 

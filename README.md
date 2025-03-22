@@ -15,11 +15,11 @@ This repository showcases the projects I have completed or am currently working 
 # PROJECTS
 
 # CERTIFICATION
-- Bachelor of Science in Computing with a major in Computer Science | 2025
+- **Bachelor of Science in Computing with a major in Computer Science**, 2025
   <br>
-- Key Performance Indicator Professional (KPIP) | 2024
+- **Key Performance Indicator Professional (KPIP)**, 2024
   <br>
-- Google Data Analysis Professional Certificate | 2022
+- **Google Data Analysis Professional Certificate**, 2022
 
 # CONTACT INFORMATION
 **LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)

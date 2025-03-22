@@ -5,7 +5,7 @@ This repository showcases the projects I have completed or am currently working 
 
 # CONTENTS
 - [PROJECTS](#projects)
-- Data Visualisation
+  - Data Visualisation
 - Exploratory Data Analysis
 - Predictive Modelling
 - Web Development Websites

@@ -5,8 +5,11 @@ This repository showcases the projects I have completed or am currently working 
 
 # CONTENTS
 - [PROJECTS](#projects)
-  - Data Visualisation
-  - Exploratory Data Analysis
+  + Data Visualisation
+    + [Personal Accounts Dashboard](#personal-accounts-dashboard)
+	  + [How Your Degree Impacts Your Career](#how-your-degree-impacts-your-career)
+  + Exploratory Data Analysis
+    + [How Your Degree Impacts Your Career](#how-your-degree-impacts-your-career)
   - Predictive Modelling
   - Web Development Websites
 - [CERTIFICATION](#certification)

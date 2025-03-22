@@ -4,6 +4,7 @@ Hi, I'm Tichina! A data scientist in the making, refining my skills through proj
 This repository showcases the projects I have completed or am currently working on, as well as those that are part of my learning journey. These are the projects I’m most proud of or find interesting enough to share.
 
 # CONTENTS
+- [PROJECTS](#projects)
 - Data Visualisation
 - Exploratory Data Analysis
 - Predictive Modelling

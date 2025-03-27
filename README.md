@@ -5,9 +5,9 @@ This repository showcases the projects I have completed or am currently working 
 
 # CONTENTS
 - [PROJECTS](#projects)
-  + [DATA VISUALISATION](data-visualisation)
+  + [DATA VISUALISATION](#data-visualisation)
     + [Personal Accounts Dashboard](#personal-accounts-dashboard)
-  + [EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
+  + [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
     + [How Your Degree Impacts Your Career](#how-your-degree-impacts-your-career)
   + Predictive Modelling
   + Web Development Websites

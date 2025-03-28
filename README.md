@@ -9,8 +9,8 @@ This repository showcases the projects I have completed or am currently working 
     + [Personal Accounts Dashboard](#personal-accounts-dashboard)
   + [Exploratory Data Analysis](#exploratory-data-analysis)
     + [How Your Degree Impacts Your Career](#how-your-degree-impacts-your-career)
-  + Predictive Modelling
-  + Web Development
+  + [Predictive Modelling](#predictive-modelling)
+  + [Web Development](#web-development)
 - [Certification](#certification)
 - [Contact Information](#contact-information)
 
@@ -37,6 +37,8 @@ This repository showcases the projects I have completed or am currently working 
 - **Approach:** Collected and analyzed comprehensive employment data across 173 different college majors. Utilized Python in Jupyter Notebook for data cleaning, transformation, and statistical analysis. Created visualizations in Google Sheets to illustrate key trends and correlations.
 - **Results:** Generated detailed insights into career outcomes for different academic disciplines. Identified significant variations in employment rates, salary potential, and career paths across majors. Developed a comprehensive visualization of degree impact on professional opportunities.
 - **Tools:** Jupyter Notebook and Python (Data Cleaning and Analysis), Google Sheets (Data Visualization), Canva (Presentation)
+
+## Predictive Modelling
 
 ## Web Development
 

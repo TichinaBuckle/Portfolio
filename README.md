@@ -1,22 +1,22 @@
-# ABOUT
+# About
 Hi, I'm Tichina! A data scientist in the making, refining my skills through projects with a keen interest in predicting the future and telling stories in visually engaging ways. I have a background in Computer Science, Graphic Design, Research, and Strategic Planning, and I aim to combine these skills to help make the world a little better. 📉 One data-driven decision at a time! 📝
 
 This repository showcases the projects I have completed or am currently working on. These are the projects I’m most proud of or find interesting enough to share.
 
-# CONTENTS
-- [PROJECTS](#projects)
-  + [DATA VISUALISATION](#data-visualisation)
+# Contents
+- [Projects](#projects)
+  + [Data Visualisation](#data-visualisation)
     + [Personal Accounts Dashboard](#personal-accounts-dashboard)
-  + [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+  + [Exploratory Data Analysis](#exploratory-data-analysis)
     + [How Your Degree Impacts Your Career](#how-your-degree-impacts-your-career)
   + Predictive Modelling
-  + Web Development Websites
-- [CERTIFICATION](#certification)
-- [CONTACT INFORMATION](#contact-information)
+  + Web Development
+- [Certification](#certification)
+- [Contact Information](#contact-information)
 
-# PROJECTS
+# Projects
 
-## DATA VISUALISATION
+## Data Visualisation
 
 ### Personal Accounts Dashboard
 **Dashboard:** [View on Tableau Public](https://public.tableau.com/views/PersonalAccountsDashboard/PersonalAccountsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -27,14 +27,18 @@ This repository showcases the projects I have completed or am currently working 
 - **Tools:** Google Form (Data Collection), Google Sheets (Data Cleaning and  Preprocessing), Tableau Public (Data Visualization)
 ![Personal Accounts Dashboard Screenshot](https://github.com/user-attachments/assets/97329bce-7d6f-40c2-bba8-c5258a2cd0fd)
 
-# CERTIFICATION
+## Exploratory Data Analysis
+
+## Web Development
+
+# Certification
 - **Bachelor of Science in Computing with a major in Computer Science**, 2025
   <br>
 - **Key Performance Indicator Professional (KPIP)**, 2024
   <br>
 - **Google Data Analysis Professional Certificate**, 2022
 
-# CONTACT INFORMATION
+# Contact Information
 **LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
 <br>
 **Kaggle:** [@tichinabuckle](https://www.kaggle.com/tichinabuckle)

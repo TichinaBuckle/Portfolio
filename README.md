@@ -29,6 +29,15 @@ This repository showcases the projects I have completed or am currently working 
 
 ## Exploratory Data Analysis
 
+### How Your Degree Impacts Your Career
+
+**Description:** A comprehensive analysis of 173 college majors and their career outcomes to identify trends and provide insights into the post-graduation job market.
+<br>
+- **Challenge:** Develop a data-driven approach to understanding the relationship between college majors and career trajectories, providing actionable insights for students and educational institutions.
+- **Approach:** Collected and analyzed comprehensive employment data across 173 different college majors. Utilized Python in Jupyter Notebook for data cleaning, transformation, and statistical analysis. Created visualizations in Google Sheets to illustrate key trends and correlations.
+- **Results:** Generated detailed insights into career outcomes for different academic disciplines. Identified significant variations in employment rates, salary potential, and career paths across majors. Developed a comprehensive visualization of degree impact on professional opportunities.
+- **Tools:** Jupyter Notebook and Python (Data Cleaning and Analysis), Google Sheets (Data Visualization), Canva (Presentation)
+
 ## Web Development
 
 # Certification

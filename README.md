@@ -25,7 +25,8 @@ This repository showcases the projects I have completed or am currently working 
 - **Approach:** Designed a structured data collection system using Google Forms for consistent daily financial tracking. Implemented automated data cleaning pipelines in Google Sheets to standardize transaction categories and handle missing values. Developed an interactive Tableau dashboard with multiple interconnected views for comprehensive financial analysis.
 - **Results:** Created a dynamic dashboard with expense breakdowns by category, comparison of budget and actual spend, and month-over-month spending comparisons. Identified 3 key spending categories with potential for 15% reduction.
 - **Tools:** Google Form (Data Collection), Google Sheets (Data Cleaning and  Preprocessing), Tableau Public (Data Visualization)
-![alt text](/Images/Personal Accounts Dashboard Screenshot.JPG)
+<br>
+![alt text](https://github.com/TichinaBuckle/Portfolio/blob/main/Images/Personal%20Accounts%20Dashboard%20Screenshot.JPG?raw=true)
 
 
 

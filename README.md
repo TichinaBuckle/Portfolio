@@ -26,7 +26,7 @@ This repository showcases the projects I have completed or am currently working 
 - **Results:** Created a dynamic dashboard with expense breakdowns by category, comparison of budget and actual spend, and month-over-month spending comparisons. Identified 3 key spending categories with potential for 15% reduction.
 - **Tools:** Google Form (Data Collection), Google Sheets (Data Cleaning and  Preprocessing), Tableau Public (Data Visualization)
 <br>
-![Image](https://github.com/user-attachments/assets/dabbcbd7-7873-4fb0-8dd7-89ed67c56803)
+![Personal Accounts Dashboard Screenshot](https://github.com/user-attachments/assets/6f223821-bb09-4fb2-9dac-e69464fcbf6d)
 
 
 # CERTIFICATION

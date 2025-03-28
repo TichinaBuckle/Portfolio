@@ -54,7 +54,5 @@ This repository showcases the projects I have completed or am currently working 
 # Contact Information
 **LinkedIn:** [@tichinabuckle](https://www.linkedin.com/in/tichinabuckle/)
 <br>
-**Kaggle:** [@tichinabuckle](https://www.kaggle.com/tichinabuckle)
-<br>
 **E-mail:** tichinabuckle@gmail.com
  

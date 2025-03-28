@@ -25,7 +25,7 @@ This repository showcases the projects I have completed or am currently working 
 - **Approach:** Designed a structured data collection system using Google Forms for consistent daily financial tracking. Implemented automated data cleaning pipelines in Google Sheets to standardize transaction categories and handle missing values. Developed an interactive Tableau dashboard with multiple interconnected views for comprehensive financial analysis.
 - **Results:** Created a dynamic dashboard with expense breakdowns by category, comparison of budget and actual spend, and month-over-month spending comparisons. Identified 3 key spending categories with potential for 15% reduction.
 - **Tools:** Google Form (Data Collection), Google Sheets (Data Cleaning and  Preprocessing), Tableau Public (Data Visualization)
-![Personal Accounts Dashboard Screenshot](https://github.com/user-attachments/assets/97329bce-7d6f-40c2-bba8-c5258a2cd0fd)
+![Personal Accounts Dashboard Screenshot](https://github.com/user-attachments/assets/7187de3c-4bb8-4ee4-be39-1dd8c8473451)
 
 ## Exploratory Data Analysis
 
